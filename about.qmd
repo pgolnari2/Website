@@ -1,17 +1,19 @@
 ---
 title: "About"
-about:
-  template: trestles
+  template: jolla
   links:
     - icon: twitter
       text: Twitter
       href: https://twitter.com/pgolnari
+    - icon: github
+      text: GitHub
+      href: https://github.com/pgolnari
 ---
 
 Hi!
 
-I am Pedram, a PhD student in Biomedical & Health Informatics at Case Western Reserve Univeristy. I have a medical degree from Iran University of Medical Sciences, Tehran, Iran. I had practiced medicine in rural areas of Southern Iran for a while and after that my professional life was dedicated to medical research. I have been working with the Neurovascular Intervention group at the Northwestern Memorial Hospital, Northwestern University for the fast few years and have published numerous papers on large national data bases in this field.
+My name is Pedram and I am a PhD student in Biomedical & Health Informatics at Case Western Reserve Univeristy.
+I have a medical degree from Iran University of Medical Sciences, Tehran, Iran where I practiced medicine.
+But now, I'm mostly busy doing reasearch in the medical field. I have been working with the Neurovascular Intervention group at the Northwestern Memorial Hospital, Northwestern University for the past few years and have published numerous papers on large national data bases in this field.
 
 My field of interest is applied machine learning and deep learning in the field of medicine using big data.
-
-I am also the co-founder and CEO of AvIcenna LLC.

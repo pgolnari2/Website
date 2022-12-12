@@ -1,6 +1,8 @@
 ---
 title: "Peer-reviewed papers"
 editor: visual
+fontsize: 11pt
+fontcolor: AntiqueWhite
 ---
 
 30. [Golnari P, Nazari P, Hurley MC, Shaibani A, Ansari SA, Potts MB, Jahromi BS. Continued dominance of carotid endarterectomy over stenting in the United States: Volumes, outcomes, and complications from the National Inpatient Sample (1997-2015). World Neurosurg. 2022;163:e238-e252](https://www.sciencedirect.com/science/article/pii/S1878875022004041)

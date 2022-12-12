@@ -1,6 +1,6 @@
 ---
 title: "Pedram Golnari"
-image: profile.jpg
+<img src=”https://github.com/pgolnari/Website/blob/master/NMH-120121.jpg”>
 listing:
   contents: posts
   sort: "date desc"

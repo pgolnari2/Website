@@ -5,6 +5,13 @@ website:
   title: "Pedram Golnari"
   navbar:
     right:
+      - text: Resume
+        href: https://github.com/pgolnari/Blog/blob/master/CV-Pedram%20Golnari_2022.12.12.pdf
+      - icon: github
+        href: https://github.com/pgolnari/Blog
+      - icon: twitter
+        href: https://twitter.com/pgolnari
+
       - href: index.qmd
         text: Home
       - about.qmd

@@ -1,5 +1,5 @@
 ---
-title: "Pedram Golnari"
+title: "Pedram Golnari, MD"
 listing:
   contents: posts
   sort: "date desc"

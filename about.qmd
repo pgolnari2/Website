@@ -11,9 +11,7 @@ about:
       href: https://github.com/pgolnari
 ---
 
-Hi!
-
-My name is Pedram and I am a PhD student in Biomedical & Health Informatics at Case Western Reserve Univeristy.
+My name is Pedram and I am a PhD student in Biomedical & Health Informatics at Case Western Reserve University.
 I have a medical degree from Iran University of Medical Sciences, Tehran, Iran where I practiced medicine.
 But now, I'm mostly busy doing reasearch in the medical field. I have been working with the Neurovascular Intervention group at the Northwestern Memorial Hospital, Northwestern University for the past few years and have published numerous papers on large national data bases in this field.
 

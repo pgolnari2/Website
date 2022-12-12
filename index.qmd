@@ -10,7 +10,8 @@ comments: false
 
 ::: {.g-col-7}
 # Hi, I'm Pedram Golnari.
-I'm a PhD student in Biomedical & Health Informatics, with a passion for R, data visualization, research, and machine learning in the field of medicine.
-  This is my personal website.
+I'm a PhD student in Biomedical & Health Informatics, with a passion for R, data visualization, research, and machine learning in the field of medicine. 
+
+This is my personal website.
 :::
 :::

@@ -3,8 +3,6 @@ project:
 
 website:
   title: "Home"
-  image: profile.jpg
-  site-url: https://pg
   site-url: https://pgolnari.netlify.app/
   description: "My website"
   navbar:

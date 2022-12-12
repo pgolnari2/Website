@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Pedram Golnari, MD"
+  title: "*Pedram Golnari, MD*"
   site-url: https://pgolnari.netlify.app/
   description: "My website"
   navbar:
@@ -12,8 +12,8 @@ website:
         menu:
           - text: Books
             href: Publications/Books.qmd
-          - text: Peer_reviewed papers
-            href: Publications/peer_reviewed
+          - text: Peer-reviewed papers
+            href: Publications/peer_reviewed.qmd
       - text: Resume
         href: https://github.com/pgolnari/Website/blob/master/CV-Pedram%20Golnari_2022.12.12.pdf
       - icon: github

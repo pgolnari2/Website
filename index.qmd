@@ -1,6 +1,7 @@
 ---
 title: "Pedram Golnari"
 listing:
+  image-align: left
   contents: posts
   sort: "date desc"
   type: default

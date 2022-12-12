@@ -3,6 +3,8 @@ project:
 
 website:
   title: "Home"
+  site-url: https://pgolnari.netlify.app/
+  description: "My website"
   navbar:
     right:
       - about.qmd

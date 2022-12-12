@@ -1,0 +1,14 @@
+---
+title: "Books"
+editor: visual
+---
+
+5\. Golnari P, Potts MB, Hurley MC, et al. Spontaneous Recanalization of Occluded Extracranial Internal Carotid Lesions. In: Eskandari MK, ed. Carotid and Supra-Aortic Trunk Disorders. 2nd ed. Raleigh, NC, USA: PMPH-USA; 2019 (1st ed was published in 2016)
+
+4\. Chehrei A, Golnari P, Moghimi A, et al. Design and Analysis in Randomized Controlled Clinical Trials. 2nd ed. Tehran, Iran: Pezhvake-Elme-Ariya Publisher; 2009 (1st ed was published in 2006)
+
+3\. Chehrei A, Golnari P, Chehrei Sh. New Approach to Clinical Decision Making. 1st ed. Arak, Iran: Fath-Danesh Publications; 2004
+
+2\. Aryasepehr S, Chehrei A, Golnari P, et al. Design and Analysis in Analytic-Observational Studies. 2nd ed. Tehran, Iran: Pezhvake-Elme-Ariya Publisher; 2008 (1st ed was published in 2002)
+
+1\. Ahmadzad M, Chehrei A, Golnari P, et al. Principles of Methodology in Medical Research. 5th ed. Tehran, Iran: Noor-Danesh Publisher; 2019 (1st ed was published in 2002)

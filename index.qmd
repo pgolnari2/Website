@@ -1,1 +1,33 @@
 
+project:
+  type: website
+
+website:
+  title: "Pedram Golnari"
+  navbar:
+    right:
+      - about.qmd
+      - text: Publications
+        menu:
+          - text: Books
+            href: Publications/Books.qmd
+          - text: Peer_reviewed papers
+            href: Publications/peer_reviewed
+      - text: Resume
+        href: https://github.com/pgolnari/Website/blob/master/CV-Pedram%20Golnari_2022.12.12.pdf
+      - icon: github
+        href: https://github.com/pgolnari/Website
+      - icon: twitter
+        href: https://twitter.com/pgolnari
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+
+comments:
+  giscus:
+    repo: pgolnari/Website

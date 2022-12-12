@@ -9,6 +9,8 @@ listing:
 comments: false
 ---
 
+::: {.grid}
+
 ::: {.g-col-6}
 ![](profile.jpg)
 :::

@@ -1,4 +1,4 @@
 ---
-title: "My Website"
+title: "Pedram Golnari"
 image: profile.jpg
 ---

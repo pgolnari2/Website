@@ -16,7 +16,7 @@ website:
           - text: Peer-reviewed papers
             href: Publications/Peer_reviewed.qmd
       - text: Resume
-        href: https://github.com/pgolnari/Website/blob/master/CV-Pedram%20Golnari_2022.12.12.pdf
+        href: CV.qmd
       - icon: github
         href: https://github.com/pgolnari/Website
       - icon: twitter

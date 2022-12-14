@@ -16,7 +16,6 @@ website:
           - text: Peer-reviewed papers
             href: Publications/Peer_reviewed.qmd
       - text: CV
-        href: CV.qmd
       - icon: github
         href: https://github.com/pgolnari/Website
       - icon: twitter

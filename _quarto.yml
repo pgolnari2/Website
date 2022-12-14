@@ -8,7 +8,7 @@ website:
   navbar:
     right:
       - text: About
-        href: about.qmd
+        href: 
       - text: Publications
         menu:
           - text: Books

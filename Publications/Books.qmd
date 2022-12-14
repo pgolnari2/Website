@@ -1,6 +1,8 @@
 ---
 title: "Books"
 editor: visual
+fontsize: 12pt
+fontcolor: AntiqueWhite
 ---
 
 5\. Golnari P, Potts MB, Hurley MC, et al. Spontaneous Recanalization of Occluded Extracranial Internal Carotid Lesions. In: Eskandari MK, ed. Carotid and Supra-Aortic Trunk Disorders. 2nd ed. Raleigh, NC, USA: PMPH-USA; 2019 (1st ed was published in 2016)

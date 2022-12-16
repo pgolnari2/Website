@@ -8,6 +8,7 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/pgolnari
+fontcolor: AntiqueWhite
 ---
 
 # About Me

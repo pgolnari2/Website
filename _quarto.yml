@@ -5,6 +5,18 @@ website:
   title: "*Pedram Golnari, MD*"
   site-url: https://pgolnari.netlify.app/
   description: "My website"
+  page-footer:
+    left: "Blog made with [Quarto](https://quarto.org/), by Pedram Golnari. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
+    right:
+      - icon: github
+        href: https://github.com/pgolnari/
+      - icon: twitter
+        href: https://twitter.com/pgolnari
+      - icon: envelope
+        href: mailto:pgolnari@yahoo.com
+  twitter-card:
+    creator: "@pgolnari"
+    card-style: summary_large_image
   navbar:
     right:
       - text: About
@@ -26,6 +38,7 @@ format:
   html:
     theme: darkly
     css: styles.css
+    link-external-newwindow: true
     toc: true
 
 editor: visual

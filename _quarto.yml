@@ -28,7 +28,7 @@ website:
           - text: Peer-reviewed papers
             href: Publications/Peer_reviewed.qmd
       - text: CV
-        href: https://pgolnari.github.io/Resume/CV.pdf
+        href: https://pgolnari.github.io/CV-Pedram Golnari.pdf
       - text: Posts
         menu: 
           - text: Pre- vs Post-publication Peer Reviews

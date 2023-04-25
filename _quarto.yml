@@ -32,11 +32,11 @@ website:
       - text: Posts
         menu: 
           - text: Pre- vs Post-publication Peer Reviews
-            href: Pre- vs Post-publication Peer Reviews.qmd
+            href: Posts/Pre- vs Post-publication Peer Reviews.qmd
           - text: Importance of Data Sharing
-            href: Importance of Data Sharing
+            href: Posts/Importance of Data Sharing.qmd
           - text: Including Instructions When Sharing Data/Code
-            href: Including Instructions When Sharing Data
+            href: Posts/Including Instructions When Sharing Data.qmd
       - icon: github
         href: https://github.com/pgolnari/Website
       - icon: twitter

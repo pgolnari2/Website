@@ -29,6 +29,14 @@ website:
             href: Publications/Peer_reviewed.qmd
       - text: CV
         href: https://pgolnari.github.io/Resume/CV.pdf
+      - text: Posts
+        menu: 
+          - text: Pre- vs Post-publication Peer Reviews
+            href: Pre- vs Post-publication Peer Reviews.qmd
+          - text: Importance of Data Sharing
+            href: Importance of Data Sharing
+          - text: Including Instructions When Sharing Data/Code
+            href: Including Instructions When Sharing Data
       - icon: github
         href: https://github.com/pgolnari/Website
       - icon: twitter

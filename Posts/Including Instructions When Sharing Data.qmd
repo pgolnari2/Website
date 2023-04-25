@@ -1,0 +1,14 @@
+---
+title: "Peer-reviewed papers"
+editor: visual
+fontsize: 12pt
+fontcolor: AntiqueWhite
+---
+
+Including Instructions When Sharing Data/Code
+
+One part of the whole data/code sharing that was interesting to me, especially when I had to share my own codes, is the README file. Although this part seems mundane and even less important, I realized that I had to pay more attention to it. Reading the very detailed README part of Dr. Love's[1] classes and also of some popular GitHub repositories didn’t catch my attention at the beginning, until I came across the ones that lacked a detailed README file or even the whole file completely. Then when I had to share my own codes (for grant purposes) I just realized how important it is to write a detailed README file so that anybody who comes across your repository and your shared files/codes can understand what your codes do and how the different files in your repository are related to each other, without needing to email you or ask their questions in person. As I’m starting to learn and use more coding programs (rather than more visualized clicking programs!) I’m also realizing the importance of commenting on the codes that I have written (both for the others to understand how the codes work and for my own sake when I come across my own codes after some time and forget what my mindset was when writing them). I think sharing the data/codes is indeed an important step towards reproducibility, and by the same token, offering a description of what each of the shared files are, a detailed instruction of how to use the shared codes, how the different files relate to each other (if more than one file is shared), and a data dictionary for the variables in the data (with details about types, levels, and units of the variables) whether written as a README file or as comments inside the files or as a whole separate file, is also important for achieving that goal.
+
+1. https://github.com/THOMASELOVE/
+
+ 

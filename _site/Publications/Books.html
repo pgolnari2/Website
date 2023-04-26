@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.269">
+<meta name="generator" content="quarto-1.2.313">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Pedram Golnari, MD - Books</title>
+<title>Pedram Golnari, MD - Book chapters</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -61,6 +61,10 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="../styles.css">
+<meta name="twitter:title" content="Pedram Golnari, MD - Book chapters">
+<meta name="twitter:description" content="">
+<meta name="twitter:creator" content="@pgolnari">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
@@ -90,7 +94,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-publications">    
         <li>
     <a class="dropdown-item" href="../Publications/Books.html">
- <span class="dropdown-text">Books</span></a>
+ <span class="dropdown-text">Book chapters</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../Publications/Peer_reviewed.html">
@@ -99,9 +103,28 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="https://github.com/pgolnari/Website/blob/master/CV-Pedram%20Golnari_2022.12.12.pdf">
- <span class="menu-text">Resume</span></a>
+    <a class="nav-link" href="https://pgolnari.github.io/CV-Pedram Golnari.pdf">
+ <span class="menu-text">CV</span></a>
   </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-posts" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Posts</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-posts">    
+        <li>
+    <a class="dropdown-item" href="../Posts/Pre- vs Post-publication Peer Reviews.html">
+ <span class="dropdown-text">Pre- vs Post-publication Peer Reviews</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../Posts/Importance of Data Sharing.html">
+ <span class="dropdown-text">Importance of Data Sharing</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../Posts/Including Instructions When Sharing Data.html">
+ <span class="dropdown-text">Including Instructions When Sharing Data/Code</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/pgolnari/Website"><i class="bi bi-github" role="img">
 </i> 
@@ -130,7 +153,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Books</h1>
+<h1 class="title">Book chapters</h1>
 </div>
 
 
@@ -145,6 +168,8 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>5. Golnari P, Potts MB, Hurley MC, et al.&nbsp;Spontaneous Recanalization of Occluded Extracranial Internal Carotid Lesions. In: Eskandari MK, ed.&nbsp;Carotid and Supra-Aortic Trunk Disorders. 2nd ed.&nbsp;Raleigh, NC, USA: PMPH-USA; 2019 (1st ed was published in 2016)</p>
 <p>4. Chehrei A, Golnari P, Moghimi A, et al.&nbsp;Design and Analysis in Randomized Controlled Clinical Trials. 2nd ed.&nbsp;Tehran, Iran: Pezhvake-Elme-Ariya Publisher; 2009 (1st ed was published in 2006)</p>
 <p>3. Chehrei A, Golnari P, Chehrei Sh. New Approach to Clinical Decision Making. 1st ed.&nbsp;Arak, Iran: Fath-Danesh Publications; 2004</p>
@@ -285,11 +310,50 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp(/https:\/\/pgolnari\.netlify\.app\//);
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
-<script src="https://giscus.app/client.js" data-repo="pgolnari/Website" data-repo-id="R_kgDOImqMJw" data-category="General" data-category-id="DIC_kwDOImqMJ84CTCg0" data-mapping="title" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="light" data-lang="en" crossorigin="anonymous" async="">
-</script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Blog made with <a href="https://quarto.org/">Quarto</a>, by Pedram Golnari. License: <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.</div>   
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/pgolnari/">
+      <i class="bi bi-github" role="img">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/pgolnari">
+      <i class="bi bi-twitter" role="img">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="mailto:pgolnari@yahoo.com">
+      <i class="bi bi-envelope" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
 
 
 

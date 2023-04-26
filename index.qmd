@@ -2,16 +2,32 @@
 comments: false
 ---
 
-::: {.grid}
-
-::: {.g-col-5}
+::: grid
+::: g-col-5
 ![](profile.jpg)
 :::
 
-::: {.g-col-7}
+::: g-col-7
 # Hi, I'm Pedram Golnari.
-I'm a PhD student in Biomedical & Health Informatics, with a passion for medical research, health informatics, and machine learning. 
+
+I'm a PhD student in Biomedical & Health Informatics.
+My fields of interests are medical research, health informatics, and AI.
 
 This is my personal website.
 :::
+:::
+
+
+::: g-col-12
+## Menu
+
+- [About](about.qmd){.menu-link}
+- [Publications](Publications/Books.qmd){.menu-link}
+  - [Book chapters](Publications/Books.qmd){.menu-link}
+  - [Peer-reviewed papers](Publications/Peer_reviewed.qmd){.menu-link}
+- [CV](https://pgolnari.github.io/CV-Pedram%20Golnari.pdf){.menu-link}
+- [Posts](Posts/Pre-vs-Post-publication-Peer-Reviews.qmd){.menu-link}
+  - [Pre- vs Post-publication Peer Reviews](Posts/Pre-vs-Post-publication-Peer-Reviews.qmd){.menu-link}
+  - [Importance of Data Sharing](Posts/Importance-of-Data-Sharing.qmd){.menu-link}
+  - [Including Instructions When Sharing Data/Code](Posts/Including-Instructions-When-Sharing-Data.qmd){.menu-link}
 :::

@@ -1,9 +1,15 @@
 ---
-title: "Importance of Data Sharing"
+title: "Importance of data sharing"
 editor: visual
 fontsize: 12pt
-fontcolor: AntiqueWhite
+fontcolor: "#D9CFE0"
+margin-top: 50px
+linestretch: 2
 ---
+
+ 
+
+ 
 
 Reading the book "How To Be A Modern Scientist" by Dr. Leek\[1\], especially the "Data Sharing" chapter made me more interested in the concept of data sharing. I already knew that data sharing is a must in medical research, but it was mostly because I thought that the data can be validated when shared with the journal. At first, what comes into mind when we hear that a journal requires the data alongside the manuscript is that it is somehow like an insurance for showing that your manuscript is not based on a fake data. But reading this chapter of the book made me realize that using the data itself (and not just verifying the validity of it) and reproducibility can actually be a more scientific reason for this data sharing. But then again, continuing reading the chapter made me realize that it's more to it than meets the eye! If it was only for data verification, then the journal can do so without needing us to make it public. But the moment our data goes public, what prevents anybody to use the data and analyze it in another way that we had not, and then publish their own manuscript, based on our data. I think, at the end, it boils down to the main reason that we're conducting our research. If it's for the good of mankind, then data sharing is actually an important part of it. And this is actually why I am now realizing why it's important to share our data. I think being cited as the reference/producer for the data can be enough, and if someone spends time to analyze our data in any other way that can actually answer a plausible question in the field, they should also get the credit for it.
 

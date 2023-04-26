@@ -2,125 +2,130 @@
 title: "Peer-reviewed papers"
 editor: visual
 fontsize: 12pt
-fontcolor: AntiqueWhite
+fontcolor: "#DCE5E1"
+margin-top: 50px
 ---
 
-30. [Golnari P, Nazari P, Hurley MC, Shaibani A, Ansari SA, Potts MB, Jahromi BS. Continued dominance of carotid endarterectomy over stenting in the United States: Volumes, outcomes, and complications from the National Inpatient Sample (1997-2015). World Neurosurg. 2022;163:e238-e252](https://www.sciencedirect.com/science/article/pii/S1878875022004041){style="color:AntiqueWhite"}
+ 
 
  
 
-29. [Nazari P, Golnari P, Ansari SA, Cantrell RD, Potts MB, Jahromi BS. Unplanned Readmission After Carotid Stenting versus Endarterectomy: Analysis of the United States Nationwide Readmission Database. J NeuroInterv Surg. 2022 Feb 15;neurintsurg-2021-018523](https://doi.org/10.1136/neurintsurg-2021-018523){style="color:AntiqueWhite"}
+30. [Golnari P, Nazari P, Hurley MC, Shaibani A, Ansari SA, Potts MB, Jahromi BS. Continued dominance of carotid endarterectomy over stenting in the United States: Volumes, outcomes, and complications from the National Inpatient Sample (1997-2015). World Neurosurg. 2022;163:e238-e252](https://www.sciencedirect.com/science/article/pii/S1878875022004041){style="color:#DCE5E1"}
 
  
 
-28. [Alwakeal A, Shlobin NA, Golnari P, Nazari P, Metcalf-Doetsch W, Shaibani A, Hurley MC, Ansari SA, Cantrell RD, Jahromi BS, Potts MB. Flow diversion of posterior circulation aneurysms: systematic review of disaggregated individual patient data. AJNR Am J Neuroradiol. 2021;42(10):1827-1833](https://doi.org/10.3174/ajnr.A7220){style="color:AntiqueWhite"}
+29. [Nazari P, Golnari P, Ansari SA, Cantrell RD, Potts MB, Jahromi BS. Unplanned Readmission After Carotid Stenting versus Endarterectomy: Analysis of the United States Nationwide Readmission Database. J NeuroInterv Surg. 2022 Feb 15;neurintsurg-2021-018523](https://doi.org/10.1136/neurintsurg-2021-018523){style="color:#DCE5E1"}
 
  
 
-27. [Nazari P, Golnari P, Hurley MC, Potts MB, Shaibani A, Ansari SA, Jahromi BS. Carotid Stenting Without Cerebral Protection Increases Major Adverse Events: Analysis of the National Surgical Quality Improvement Program. AJNR Am J Neuroradiol. 2021;42(7):1264-1269](https://doi.org/10.3174/ajnr.A7108){style="color:AntiqueWhite"}
+28. [Alwakeal A, Shlobin NA, Golnari P, Nazari P, Metcalf-Doetsch W, Shaibani A, Hurley MC, Ansari SA, Cantrell RD, Jahromi BS, Potts MB. Flow diversion of posterior circulation aneurysms: systematic review of disaggregated individual patient data. AJNR Am J Neuroradiol. 2021;42(10):1827-1833](https://doi.org/10.3174/ajnr.A7220){style="color:#DCE5E1"}
 
  
 
-26. [Potts MB, Abdalla R, Golnari P, Sukumaran M, Palmer A, Hurley MC, Shaibani A, Jahromi BS, Ansari SA. Analysis of mechanical thrombectomy for acute ischemic stroke on nights and weekends versus weekdays at Comprehensive Stroke Centers. J Stroke Cerebrovasc Dis. 2021;30(4):1-9](https://doi.org/10.1016/j.jstrokecerebrovasdis.2021.105632){style="color:AntiqueWhite"}
+27. [Nazari P, Golnari P, Hurley MC, Potts MB, Shaibani A, Ansari SA, Jahromi BS. Carotid Stenting Without Cerebral Protection Increases Major Adverse Events: Analysis of the National Surgical Quality Improvement Program. AJNR Am J Neuroradiol. 2021;42(7):1264-1269](https://doi.org/10.3174/ajnr.A7108){style="color:#DCE5E1"}
 
  
 
-25. [Golnari P, Nazari P, Ansari SA, Hurley MC, Shaibani A, Potts MB, Jahromi BS. Endovascular Thrombectomy after Large Vessel Ischemic Stroke: Nationwide Utilization, Outcomes and Readmissions. Radiology. 2021;299(1):179-189-Editor's Choice](https://doi.org/10.1148/radiol.2021203082){style="color:AntiqueWhite"}
+26. [Potts MB, Abdalla R, Golnari P, Sukumaran M, Palmer A, Hurley MC, Shaibani A, Jahromi BS, Ansari SA. Analysis of mechanical thrombectomy for acute ischemic stroke on nights and weekends versus weekdays at Comprehensive Stroke Centers. J Stroke Cerebrovasc Dis. 2021;30(4):1-9](https://doi.org/10.1016/j.jstrokecerebrovasdis.2021.105632){style="color:#DCE5E1"}
 
  
 
-24. [Mansoori B, Golnari P, Sharifi A, Khoshpouri P, Chalian H, Herrmann K, Chalian M. Ultrasonography Training in Radiology Residency Programs: A National Survey. J Ultrasound Med. 2021;40(4):731-740](https://doi.org/10.1002/jum.15443){style="color:AntiqueWhite"}
+25. [Golnari P, Nazari P, Ansari SA, Hurley MC, Shaibani A, Potts MB, Jahromi BS. Endovascular Thrombectomy after Large Vessel Ischemic Stroke: Nationwide Utilization, Outcomes and Readmissions. Radiology. 2021;299(1):179-189-Editor's Choice](https://doi.org/10.1148/radiol.2021203082){style="color:#DCE5E1"}
 
  
 
-23. [Nazari P, Golnari P, Sukumaran M, Shaibani A, Hurley MC, Ansari SA, Potts MB, Jahromi BS. Spontaneous Thrombosis of a Middle Meningeal Arteriovenous Fistula with Subsequent Pseudoaneurysm Formation: Case Report and Review of Literature. Neurosurgery Open. 2020;1(3):1-9](https://doi.org/10.1093/neuopn/okaa006){style="color:AntiqueWhite"}
+24. [Mansoori B, Golnari P, Sharifi A, Khoshpouri P, Chalian H, Herrmann K, Chalian M. Ultrasonography Training in Radiology Residency Programs: A National Survey. J Ultrasound Med. 2021;40(4):731-740](https://doi.org/10.1002/jum.15443){style="color:#DCE5E1"}
 
  
 
-22. [Golnari P, Nazari P, Garcia RM, Weiss H, Shaibani A, Hurley MC, Ansari SA, Potts MB, Jahromi BS. Volumes, outcomes, and complications after surgical versus endovascular treatment of aneurysms in the United States (1993-2015): continued evolution versus steady state after more than 2 decades of practice. J Neurosurg. 2020;134(3):848-861-Editor's Choice](https://doi.org/10.3171/2019.12.Jns192755){style="color:AntiqueWhite"}
+23. [Nazari P, Golnari P, Sukumaran M, Shaibani A, Hurley MC, Ansari SA, Potts MB, Jahromi BS. Spontaneous Thrombosis of a Middle Meningeal Arteriovenous Fistula with Subsequent Pseudoaneurysm Formation: Case Report and Review of Literature. Neurosurgery Open. 2020;1(3):1-9](https://doi.org/10.1093/neuopn/okaa006){style="color:#DCE5E1"}
 
  
 
-21. [Kalluri AG, Sukumaran M, Nazari P, Golnari P, Ansari SA, Hurley MC, Shaibani A, Jahromi BS, Potts MB. Retrospective review of 290 small carotid cave aneurysms over 17 years. J Neurosurg. 2020;133(5):1473-1477](https://doi.org/10.3171/2019.7.JNS191471){style="color:AntiqueWhite"}
+22. [Golnari P, Nazari P, Garcia RM, Weiss H, Shaibani A, Hurley MC, Ansari SA, Potts MB, Jahromi BS. Volumes, outcomes, and complications after surgical versus endovascular treatment of aneurysms in the United States (1993-2015): continued evolution versus steady state after more than 2 decades of practice. J Neurosurg. 2020;134(3):848-861-Editor's Choice](https://doi.org/10.3171/2019.12.Jns192755){style="color:#DCE5E1"}
 
  
 
-20. [Golnari P, Ansari SA, Shaibani A, Hurley MC, Potts MB, Kohler ME, Sugrue PA, Jahromi BS. Intradural Extramedullary Cavernous Malformation with Extensive Superficial Siderosis of the Neuraxis: Case Report and Review of Literature. Surg Neurol Int. 2017;8(1):109-113](https://doi.org/10.4103/sni.sni_103_17){style="color:AntiqueWhite"}
+21. [Kalluri AG, Sukumaran M, Nazari P, Golnari P, Ansari SA, Hurley MC, Shaibani A, Jahromi BS, Potts MB. Retrospective review of 290 small carotid cave aneurysms over 17 years. J Neurosurg. 2020;133(5):1473-1477](https://doi.org/10.3171/2019.7.JNS191471){style="color:#DCE5E1"}
 
  
 
-19. [Sodagari F, Golnari P. Clinical internship for radiology: to be, or not to be. Acad Radiol. 2016;23(8):1069](https://doi.org/10.1016/j.acra.2016.03.016){style="color:AntiqueWhite"}
+20. [Golnari P, Ansari SA, Shaibani A, Hurley MC, Potts MB, Kohler ME, Sugrue PA, Jahromi BS. Intradural Extramedullary Cavernous Malformation with Extensive Superficial Siderosis of the Neuraxis: Case Report and Review of Literature. Surg Neurol Int. 2017;8(1):109-113](https://doi.org/10.4103/sni.sni_103_17){style="color:#DCE5E1"}
 
  
 
-18. [Golnari P, Forsberg D, Rosipko B, Sunshine JL. Online Error Reporting for Managing Quality Control within Radiology. J Digit Imaging. 2015;29(3):301-308](https://doi.org/10.1007/s10278-015-9820-6){style="color:AntiqueWhite"}
+19. [Sodagari F, Golnari P. Clinical internship for radiology: to be, or not to be. Acad Radiol. 2016;23(8):1069](https://doi.org/10.1016/j.acra.2016.03.016){style="color:#DCE5E1"}
 
  
 
-17. [Golnari P, Sodagari F, Baradaran HR. Quality of Published Iranian Medical Education Research Studies: A Systematic Review. Med J Islam Repub Iran. 2014;28(79):1-10](https://pubmed.ncbi.nlm.nih.gov/25405144/){style="color:AntiqueWhite"}
+18. [Golnari P, Forsberg D, Rosipko B, Sunshine JL. Online Error Reporting for Managing Quality Control within Radiology. J Digit Imaging. 2015;29(3):301-308](https://doi.org/10.1007/s10278-015-9820-6){style="color:#DCE5E1"}
 
  
 
-16. [Sanati H, Zahedmehr A, Firouzi A, Salehi N, Maadani M, Shakerian F, Kiani R, Golnari P, Parchami-Ghazaee S, Peighambari M. Coronary Flow Assessment in Unstable Angina/non-ST- segment Elevation Myocardial Infarction Patients via Thrombolysis in Myocardial Infarction Frame Count in Angiography. Res Cardiovasc Med. 2013;2(2):95-98](https://pubmed.ncbi.nlm.nih.gov/25478501/){style="color:AntiqueWhite"}
+17. [Golnari P, Sodagari F, Baradaran HR. Quality of Published Iranian Medical Education Research Studies: A Systematic Review. Med J Islam Repub Iran. 2014;28(79):1-10](https://pubmed.ncbi.nlm.nih.gov/25405144/){style="color:#DCE5E1"}
 
  
 
-15. [Alizadeh-Sani Z, Madadi Sh, Sadeghpour A, Khajali Z, Golnari P, Kiavar M. Cardiac MRI in A Patient with Coincident Left Ventricular Non-Compaction and Hypertrophic Cardiomyopathy. J Tehran Heart Cent. 2011;6(4):214-216](https://pubmed.ncbi.nlm.nih.gov/23074372/){style="color:AntiqueWhite"}
+16. [Sanati H, Zahedmehr A, Firouzi A, Salehi N, Maadani M, Shakerian F, Kiani R, Golnari P, Parchami-Ghazaee S, Peighambari M. Coronary Flow Assessment in Unstable Angina/non-ST- segment Elevation Myocardial Infarction Patients via Thrombolysis in Myocardial Infarction Frame Count in Angiography. Res Cardiovasc Med. 2013;2(2):95-98](https://pubmed.ncbi.nlm.nih.gov/25478501/){style="color:#DCE5E1"}
 
  
 
-14. [Poormoghim H, Shekarabi M, Golnari P, Yazdipoor N, Nozari M, Farjam-Nia A, Falak R. Evaluation of the Diagnostic Accuracy of Anti-Citrulline Antibody in Rheumatoid Arthritis Patients and Its Comparison with Other Rheumatic Disorders and Normal Individuals. Razi J Med Sci. 2009;16(62):89-98](http://rjms.iums.ac.ir/article-1-1171-en.html){style="color:AntiqueWhite"}
+15. [Alizadeh-Sani Z, Madadi Sh, Sadeghpour A, Khajali Z, Golnari P, Kiavar M. Cardiac MRI in A Patient with Coincident Left Ventricular Non-Compaction and Hypertrophic Cardiomyopathy. J Tehran Heart Cent. 2011;6(4):214-216](https://pubmed.ncbi.nlm.nih.gov/23074372/){style="color:#DCE5E1"}
 
  
 
-13. [Otukesh H, Hoseini R, Golnari P, Fereshtehnejad SM, Zamanfar D, Hooman N, Tabarroki A. Short-Term and Long-Term Outcome of Hemolytic Uremic Syndrome in Iranian Children. J Nephrol 2008;21(5):694-703](https://pubmed.ncbi.nlm.nih.gov/18949724/){style="color:AntiqueWhite"}
+14. [Poormoghim H, Shekarabi M, Golnari P, Yazdipoor N, Nozari M, Farjam-Nia A, Falak R. Evaluation of the Diagnostic Accuracy of Anti-Citrulline Antibody in Rheumatoid Arthritis Patients and Its Comparison with Other Rheumatic Disorders and Normal Individuals. Razi J Med Sci. 2009;16(62):89-98](http://rjms.iums.ac.ir/article-1-1171-en.html){style="color:#DCE5E1"}
 
  
 
-12. [Nickavar A, Golnari P, Seddigh N. Determination of Birth Indices of Healthy Neonates. Acta Medica Iranica. 2007;45(6):469-472](https://acta.tums.ac.ir/index.php/acta/article/view/3319){style="color:AntiqueWhite"}
+13. [Otukesh H, Hoseini R, Golnari P, Fereshtehnejad SM, Zamanfar D, Hooman N, Tabarroki A. Short-Term and Long-Term Outcome of Hemolytic Uremic Syndrome in Iranian Children. J Nephrol 2008;21(5):694-703](https://pubmed.ncbi.nlm.nih.gov/18949724/){style="color:#DCE5E1"}
 
  
 
-11. [Razzaghy-Azar M, Moghimi A, Sadigh N, Montazer M, Golnari P, Zahedi-Shoolami L, Van Buuren S, Mohammad-Sadeghi H, Zangeneh-Kazemi A, Fereshtehnejad SM. Age of Puberty in Iranian Girls Living in Tehran. Ann Hum Biol. 2006;33(5-6):628-633](https://doi.org/10.1080/03014460600909372){style="color:AntiqueWhite"}
+12. [Nickavar A, Golnari P, Seddigh N. Determination of Birth Indices of Healthy Neonates. Acta Medica Iranica. 2007;45(6):469-472](https://acta.tums.ac.ir/index.php/acta/article/view/3319){style="color:#DCE5E1"}
 
  
 
-10. [Razzaghy-Azar M, Moghimi A, Montazer M, Sadeghi HM, Golnari P, Sadigh N, Ossivand S, Fereshtehnejad SM, Shoolami LZ, Pour NE. Cross-Sectional Reference Values for Height, Weight and Body Mass Index of School Children Living in Tehran, Iran. Ann Hum Biol. 2006;33(4):471-479](https://doi.org/10.1080/03014460600802478){style="color:AntiqueWhite"}
+11. [Razzaghy-Azar M, Moghimi A, Sadigh N, Montazer M, Golnari P, Zahedi-Shoolami L, Van Buuren S, Mohammad-Sadeghi H, Zangeneh-Kazemi A, Fereshtehnejad SM. Age of Puberty in Iranian Girls Living in Tehran. Ann Hum Biol. 2006;33(5-6):628-633](https://doi.org/10.1080/03014460600909372){style="color:#DCE5E1"}
 
  
 
-9.  [Otukesh H, Basiri A, Simfroosh N, Hoseini R, Sharifian M, Sadigh N, Golnari P, Rezai M, Fereshtenejad M. Outcome of Pediatric Renal Transplantation in Labafi Nejad Hospital, Tehran, Iran. Pediatr Nephrol. 2006;21(10):1459-1463](https://doi.org/10.1007/s00467-006-0184-5){style="color:AntiqueWhite"}
+10. [Razzaghy-Azar M, Moghimi A, Montazer M, Sadeghi HM, Golnari P, Sadigh N, Ossivand S, Fereshtehnejad SM, Shoolami LZ, Pour NE. Cross-Sectional Reference Values for Height, Weight and Body Mass Index of School Children Living in Tehran, Iran. Ann Hum Biol. 2006;33(4):471-479](https://doi.org/10.1080/03014460600802478){style="color:#DCE5E1"}
 
  
 
-8.  [Razzaghi Azar M, Moghimi A, Montazer M, Mohammad Sadeghi H, Golnari P, Sedigh N, Ossivand S, Fereshtehnezhad M, Zahedi Shulami L, Ebrahimpour N, Zanganeh Kazemi A. Evaluation of Height, Weight and BMI (Body Mass Index) in Healthy 6-17-year-old Schoolgirls and 6-15-year-old Schoolboys, Tehran. Razi J Med Sci. 2006;13(51):115-129](http://rjms.iums.ac.ir/article-1-598-en.html){style="color:AntiqueWhite"}
+9.  [Otukesh H, Basiri A, Simfroosh N, Hoseini R, Sharifian M, Sadigh N, Golnari P, Rezai M, Fereshtenejad M. Outcome of Pediatric Renal Transplantation in Labafi Nejad Hospital, Tehran, Iran. Pediatr Nephrol. 2006;21(10):1459-1463](https://doi.org/10.1007/s00467-006-0184-5){style="color:#DCE5E1"}
 
  
 
-7.  [Otukesh H, Sharifian M, Basiri A, Simforoush N, Hosseini R, Sedigh N, Golnari P, Rezaee M, Fereshtehnezhad M. Evaluation of Renal Graft Survival Rate in Children with Lower Urinary Tract Dysfunction in Labafi Nejad Hospital. Razi J Med Sci. 2006;13(51):17-23](http://rjms.iums.ac.ir/article-1-585-en.html){style="color:AntiqueWhite"}
+8.  [Razzaghi Azar M, Moghimi A, Montazer M, Mohammad Sadeghi H, Golnari P, Sedigh N, Ossivand S, Fereshtehnezhad M, Zahedi Shulami L, Ebrahimpour N, Zanganeh Kazemi A. Evaluation of Height, Weight and BMI (Body Mass Index) in Healthy 6-17-year-old Schoolgirls and 6-15-year-old Schoolboys, Tehran. Razi J Med Sci. 2006;13(51):115-129](http://rjms.iums.ac.ir/article-1-598-en.html){style="color:#DCE5E1"}
 
  
 
-6.  [Razzaghi-Azar M, Moghimi A, Sadigh N, Montazer M, Golnari P, Zahedi-Shulami L, Van Buuren S, Mohammad-Sadeghi H, Zanganeh-Kazemi A, Fereshtehnejad SM. Age at the Onset of Puberty and Menarche in Iranian Girls and Boys. Razi J Med Sci. 2006;13(50):71-82](http://rjms.iums.ac.ir/article-1-567-en.html){style="color:AntiqueWhite"}
+7.  [Otukesh H, Sharifian M, Basiri A, Simforoush N, Hosseini R, Sedigh N, Golnari P, Rezaee M, Fereshtehnezhad M. Evaluation of Renal Graft Survival Rate in Children with Lower Urinary Tract Dysfunction in Labafi Nejad Hospital. Razi J Med Sci. 2006;13(51):17-23](http://rjms.iums.ac.ir/article-1-585-en.html){style="color:#DCE5E1"}
 
  
 
-5.  [Otukesh H, Sharifian M, Simfroosh N, Basiri A, Hoseini R, Sedigh N, Golnari P, Rezai M, Fereshtenejad M. Outcome of Renal Transplantation in Children with Lower Urinary Tract Abnormality. Transplant Proc. 2005;37(7):3071-3074](https://doi.org/10.1016/j.transproceed.2005.08.026){style="color:AntiqueWhite"}
+6.  [Razzaghi-Azar M, Moghimi A, Sadigh N, Montazer M, Golnari P, Zahedi-Shulami L, Van Buuren S, Mohammad-Sadeghi H, Zanganeh-Kazemi A, Fereshtehnejad SM. Age at the Onset of Puberty and Menarche in Iranian Girls and Boys. Razi J Med Sci. 2006;13(50):71-82](http://rjms.iums.ac.ir/article-1-567-en.html){style="color:#DCE5E1"}
 
  
 
-4.  [Otukesh H, Sharifian M, Basiri A, Simfroosh N, Hoseini R, Sedigh N, Golnari P, Rezai M, Fereshtenejad M. Mycophenolate mofetil in Pediatric Renal Transplantation. Transplant Proc. 2005;37(7):3012-3015](https://doi.org/10.1016/j.transproceed.2005.08.030){style="color:AntiqueWhite"}
+5.  [Otukesh H, Sharifian M, Simfroosh N, Basiri A, Hoseini R, Sedigh N, Golnari P, Rezai M, Fereshtenejad M. Outcome of Renal Transplantation in Children with Lower Urinary Tract Abnormality. Transplant Proc. 2005;37(7):3071-3074](https://doi.org/10.1016/j.transproceed.2005.08.026){style="color:#DCE5E1"}
 
  
 
-3.  [Ghasemi Sh, Golnari P, Hashemnejad M, Shahgholi N, Karimi P. Factors Influencing the Efficacy of Hepatitis B Vaccination in Patients Undergoing Hemodialysis. Razi J Med Sci. 2004;10(37):757-764](http://rjms.iums.ac.ir/article-1-225-en.html){style="color:AntiqueWhite"}
+4.  [Otukesh H, Sharifian M, Basiri A, Simfroosh N, Hoseini R, Sedigh N, Golnari P, Rezai M, Fereshtenejad M. Mycophenolate mofetil in Pediatric Renal Transplantation. Transplant Proc. 2005;37(7):3012-3015](https://doi.org/10.1016/j.transproceed.2005.08.030){style="color:#DCE5E1"}
 
  
 
-2.  [Ghasemi Sh, Golnari P, Chehrei A. Disseminated Nocardiosis in an Immunocompromised Child with Unknown Cause. Iran J Med Sci. 2002;27(3):147-150](https://ijms.sums.ac.ir/article_40259.html){style="color:AntiqueWhite"}
+3.  [Ghasemi Sh, Golnari P, Hashemnejad M, Shahgholi N, Karimi P. Factors Influencing the Efficacy of Hepatitis B Vaccination in Patients Undergoing Hemodialysis. Razi J Med Sci. 2004;10(37):757-764](http://rjms.iums.ac.ir/article-1-225-en.html){style="color:#DCE5E1"}
 
  
 
-1.  [Arjmandi-Rafsanjani Kh, Chehrei A, Chalian M, Fahimi A, Golnari P, Shojaei Sh. Factors Affecting the Survival Rate of Patients with Wilms' Tumor. J Arak Uni Med Sci. 2002;5(3):30-35](http://jams.arakmu.ac.ir/article-1-6718-en.html){style="color:AntiqueWhite"}
+2.  [Ghasemi Sh, Golnari P, Chehrei A. Disseminated Nocardiosis in an Immunocompromised Child with Unknown Cause. Iran J Med Sci. 2002;27(3):147-150](https://ijms.sums.ac.ir/article_40259.html){style="color:#DCE5E1"}
+
+ 
+
+1.  [Arjmandi-Rafsanjani Kh, Chehrei A, Chalian M, Fahimi A, Golnari P, Shojaei Sh. Factors Affecting the Survival Rate of Patients with Wilms' Tumor. J Arak Uni Med Sci. 2002;5(3):30-35](http://jams.arakmu.ac.ir/article-1-6718-en.html){style="color:#DCE5E1"}
 
  

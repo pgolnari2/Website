@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "*Pedram Golnari, MD*",
     "section": "",
-    "text": "Hi, I’m Pedram Golnari.\nI’m a PhD student in Biomedical & Health Informatics, with a passion for medical research, health informatics, and machine learning.\nThis is my personal website."
+    "text": "I’m a PhD student in Biomedical & Health Informatics. My fields of interests are medical research, health informatics, and AI.\nThis is my personal website."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "*Pedram Golnari, MD*",
     "section": "",
-    "text": "About Me\nMy name is Pedram and I am a PhD student in Biomedical & Health Informatics at Case Western Reserve University. I have a medical degree from Iran University of Medical Sciences, Tehran, Iran where I practiced medicine. But now, I’m mostly busy doing reasearch in the medical field. I have been working with the Neurovascular Intervention group at the Northwestern Memorial Hospital, Northwestern University for the past few years and have published numerous papers on large national data bases in this field.\nMy field of interest is applied machine learning and deep learning in the field of medicine using big data."
+    "text": "About Me\n \n \nMy name is Pedram and I am a PhD student in Biomedical & Health Informatics at Case Western Reserve University. I have a medical degree from Iran University of Medical Sciences, Tehran, Iran where I practiced medicine. But now, I’m mostly busy doing reasearch in the medical field. I have been working with the Neurovascular Intervention group at the Northwestern Memorial Hospital, Northwestern University for the past few years and have published numerous papers on large national data bases in this field.\nMy field of interest is applied machine learning and deep learning in the field of medicine using big data."
   },
   {
     "objectID": "Publications/Peer_reviewed.html",
@@ -23,7 +23,7 @@
   {
     "objectID": "Publications/Books.html",
     "href": "Publications/Books.html",
-    "title": "Books",
+    "title": "Book chapters",
     "section": "",
     "text": "5. Golnari P, Potts MB, Hurley MC, et al. Spontaneous Recanalization of Occluded Extracranial Internal Carotid Lesions. In: Eskandari MK, ed. Carotid and Supra-Aortic Trunk Disorders. 2nd ed. Raleigh, NC, USA: PMPH-USA; 2019 (1st ed was published in 2016)\n4. Chehrei A, Golnari P, Moghimi A, et al. Design and Analysis in Randomized Controlled Clinical Trials. 2nd ed. Tehran, Iran: Pezhvake-Elme-Ariya Publisher; 2009 (1st ed was published in 2006)\n3. Chehrei A, Golnari P, Chehrei Sh. New Approach to Clinical Decision Making. 1st ed. Arak, Iran: Fath-Danesh Publications; 2004\n2. Aryasepehr S, Chehrei A, Golnari P, et al. Design and Analysis in Analytic-Observational Studies. 2nd ed. Tehran, Iran: Pezhvake-Elme-Ariya Publisher; 2008 (1st ed was published in 2002)\n1. Ahmadzad M, Chehrei A, Golnari P, et al. Principles of Methodology in Medical Research. 5th ed. Tehran, Iran: Noor-Danesh Publisher; 2019 (1st ed was published in 2002)"
   },
@@ -37,22 +37,29 @@
   {
     "objectID": "Posts/Importance of Data Sharing.html",
     "href": "Posts/Importance of Data Sharing.html",
-    "title": "Importance of Data Sharing",
+    "title": "Importance of data sharing",
     "section": "",
     "text": "Reading the book “How To Be A Modern Scientist” by Dr. Leek[1], especially the “Data Sharing” chapter made me more interested in the concept of data sharing. I already knew that data sharing is a must in medical research, but it was mostly because I thought that the data can be validated when shared with the journal. At first, what comes into mind when we hear that a journal requires the data alongside the manuscript is that it is somehow like an insurance for showing that your manuscript is not based on a fake data. But reading this chapter of the book made me realize that using the data itself (and not just verifying the validity of it) and reproducibility can actually be a more scientific reason for this data sharing. But then again, continuing reading the chapter made me realize that it’s more to it than meets the eye! If it was only for data verification, then the journal can do so without needing us to make it public. But the moment our data goes public, what prevents anybody to use the data and analyze it in another way that we had not, and then publish their own manuscript, based on our data. I think, at the end, it boils down to the main reason that we’re conducting our research. If it’s for the good of mankind, then data sharing is actually an important part of it. And this is actually why I am now realizing why it’s important to share our data. I think being cited as the reference/producer for the data can be enough, and if someone spends time to analyze our data in any other way that can actually answer a plausible question in the field, they should also get the credit for it.\n\nhttps://leanpub.com/modernscientist"
   },
   {
     "objectID": "Posts/Including Instructions When Sharing Data.html",
     "href": "Posts/Including Instructions When Sharing Data.html",
-    "title": "Including Instructions When Sharing Data/Code",
+    "title": "Including instructions when sharing data/code",
     "section": "",
     "text": "One part of the whole data/code sharing that was interesting to me, especially when I had to share my own codes, is the README file. Although this part seems mundane and even less important, I realized that I had to pay more attention to it. Reading the very detailed README part of Dr. Love’s[1] classes and also of some popular GitHub repositories didn’t catch my attention at the beginning, until I came across the ones that lacked a detailed README file or even the whole file completely. Then when I had to share my own codes (for grant purposes) I just realized how important it is to write a detailed README file so that anybody who comes across your repository and your shared files/codes can understand what your codes do and how the different files in your repository are related to each other, without needing to email you or ask their questions in person. As I’m starting to learn and use more coding programs (rather than more visualized clicking programs!) I’m also realizing the importance of commenting on the codes that I have written (both for the others to understand how the codes work and for my own sake when I come across my own codes after some time and forget what my mindset was when writing them). I think sharing the data/codes is indeed an important step towards reproducibility, and by the same token, offering a description of what each of the shared files are, a detailed instruction of how to use the shared codes, how the different files relate to each other (if more than one file is shared), and a data dictionary for the variables in the data (with details about types, levels, and units of the variables) whether written as a README file or as comments inside the files or as a whole separate file, is also important for achieving that goal.\n\nhttps://github.com/THOMASELOVE/"
   },
   {
     "objectID": "Posts/Pre- vs Post-publication Peer Reviews.html",
     "href": "Posts/Pre- vs Post-publication Peer Reviews.html",
-    "title": "Pre- vs Post-publication Peer Reviews",
+    "title": "Pre- vs post-publication peer reviews",
     "section": "",
     "text": "Dr. Leek[1] provides a good and somewhat thorough discussion about pre- vs post-publication peer reviews. But since the book was written prior to Covid-19 pandemic, there can be additional point of views added to this discussion. For example, in the first months of the pandemic, two prestigious medical journals (NEJM and Lancet) retracted two of their published articles over data falsifications.[2] These retractions came after post-publication reviews, discussions, and scrutinization in social media and other online platforms and highlighted two important aspects of scientific peer-review: 1) even prestigious journals are not immune to flawed pre-publication peer-reviews and 2) the role of post-publication peer-review in preserving the integrity of scientific publications should be considered more seriously. There is also an interesting discussion about article retractions and peer-reviews in one of the links that Dr. Love provided in session 22 of 431 course.[3] I think this event was effective in triggering some new policies that some journals have adapted recently.[4] For example, one publication is considering this new policy: “From next year, we will no longer make accept/reject decisions at the end of the peer-review process; rather, all papers that have been peer-reviewed will be published on the eLife website as Reviewed Preprints, accompanied by an eLife assessment and public reviews. The authors will also be able to include a response to the assessment and reviews.”[5] I think we still need to continue discussing whether the present process of pre-publication peer-reviews is effective and valid or should we consider revising it.\n\nhttps://leanpub.com/modernscientist\nhttps://www.science.org/content/article/two-elite-medical-journals-retract-coronavirus-papers-over-data-integrity-questions\nhttps://fivethirtyeight.com/features/science-isnt-broken/#part3\nhttps://www.nature.com/articles/d41586-022-03534-6\nhttps://elifesciences.org/inside-elife/54d63486/elife-s-new-model-changing-the-way-you-share-your-research"
+  },
+  {
+    "objectID": "index.html#menu",
+    "href": "index.html#menu",
+    "title": "*Pedram Golnari, MD*",
+    "section": "Menu",
+    "text": "Menu\n\nAbout\nPublications\n\nBook chapters\nPeer-reviewed papers\n\nCV\nPosts\n\nPre- vs Post-publication Peer Reviews\nImportance of Data Sharing\nIncluding Instructions When Sharing Data/Code"
   }
 ]

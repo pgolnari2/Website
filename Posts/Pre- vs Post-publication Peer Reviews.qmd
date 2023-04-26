@@ -1,9 +1,15 @@
 ---
-title: "Pre- vs Post-publication Peer Reviews"
+title: "Pre- vs post-publication peer reviews"
 editor: visual
 fontsize: 12pt
-fontcolor: AntiqueWhite
+fontcolor: "#D9CFE0"
+margin-top: 50px
+linestretch: 2
 ---
+
+ 
+
+ 
 
 Dr. Leek\[1\] provides a good and somewhat thorough discussion about pre- vs post-publication peer reviews. But since the book was written prior to Covid-19 pandemic, there can be additional point of views added to this discussion. For example, in the first months of the pandemic, two prestigious medical journals (NEJM and Lancet) retracted two of their published articles over data falsifications.\[2\] These retractions came after post-publication reviews, discussions, and scrutinization in social media and other online platforms and highlighted two important aspects of scientific peer-review: 1) even prestigious journals are not immune to flawed pre-publication peer-reviews and 2) the role of post-publication peer-review in preserving the integrity of scientific publications should be considered more seriously. There is also an interesting discussion about article retractions and peer-reviews in one of the links that Dr. Love provided in session 22 of 431 course.\[3\] I think this event was effective in triggering some new policies that some journals have adapted recently.\[4\] For example, one publication is considering this new policy: "From next year, we will no longer make accept/reject decisions at the end of the peer-review process; rather, all papers that have been peer-reviewed will be published on the eLife website as Reviewed Preprints, accompanied by an eLife assessment and public reviews. The authors will also be able to include a response to the assessment and reviews."\[5\] I think we still need to continue discussing whether the present process of pre-publication peer-reviews is effective and valid or should we consider revising it.
 

@@ -1,1 +1,78 @@
-/* css styles */
+/* Position the homepage grid */
+.homepage-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto 1fr;
+}
+
+/* Position the image on the homepage */
+.homepage-image {
+  grid-row: 1 / span 2;
+}
+
+/* Position the intro text on the homepage */
+.homepage-intro {
+  grid-row: 1 / span 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Position the menu on the homepage */
+.homepage-menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Position the menu links on the homepage */
+.homepage-menu a {
+  margin: 1rem;
+}
+
+
+.menu-link {
+  background-color: #375A7F;
+  border: none;
+  color: white;
+  padding: 3px 6px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.menu-link:hover {
+  background-color: #375A7F;
+}
+.submenu {
+  display: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.menu-link:hover .submenu {
+  display: block;
+}
+
+.submenu button {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding-left: 10px;
+}
+
+.book-text {
+  color: #D9CFE0;
+  font-size: 12px;
+}
+
+.book-title {
+    margin-top: 50px;
+}
+

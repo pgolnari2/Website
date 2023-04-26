@@ -23,7 +23,7 @@ website:
         href: about.qmd
       - text: Publications
         menu:
-          - text: Books
+          - text: Book chapters
             href: Publications/Books.qmd
           - text: Peer-reviewed papers
             href: Publications/Peer_reviewed.qmd
@@ -51,6 +51,3 @@ format:
 
 editor: visual
 
-comments:
-  giscus:
-    repo: pgolnari/Website
